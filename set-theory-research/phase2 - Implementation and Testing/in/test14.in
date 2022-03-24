@@ -1,0 +1,31 @@
+30 int
+insert 25032
+delete 25032
+insert 13930
+insert 2967
+modify 2967 12280
+modify 2967 9784
+delete 12280
+delete 2967
+modify 13930 18878
+delete 13930
+insert 21125
+insert 8109
+delete 2967
+modify 21125 30022
+insert 10110
+insert 13033
+insert 12763
+modify 12763 31059
+insert 23709
+modify 31059 32176
+insert 15600
+delete 2967
+insert 10608
+insert 4557
+insert 23453
+insert 1551
+insert 30115
+insert 28647
+delete 4557
+insert 20159

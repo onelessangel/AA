@@ -1,0 +1,8 @@
+7 int
+insert 11437
+modify 11437 23839
+insert 11437
+delete 11437
+delete 23839
+modify 23839 1525
+insert 17152

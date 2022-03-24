@@ -1,0 +1,16 @@
+15 int
+insert 17474
+modify 17474 14712
+modify 17474 16026
+insert 14817
+insert 20137
+modify 14712 9554
+modify 14817 21933
+delete 14817
+insert 21702
+delete 17474
+insert 13370
+modify 14817 28561
+modify 21702 31861
+modify 17474 19109
+insert 19449

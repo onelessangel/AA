@@ -1,0 +1,31 @@
+30 int
+insert 6625
+modify 6625 13765
+delete 6625
+delete 13765
+modify 13765 4346
+delete 13765
+modify 4346 15244
+insert 10120
+modify 6625 6306
+delete 6625
+modify 6625 23011
+modify 4346 8025
+delete 8025
+modify 6306 16317
+insert 29461
+delete 8025
+insert 30680
+delete 8025
+insert 25700
+modify 25700 13086
+modify 30680 28418
+delete 8025
+insert 12313
+modify 29461 32216
+insert 20514
+insert 28187
+delete 32216
+delete 8025
+modify 25700 15139
+insert 5453

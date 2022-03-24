@@ -1,0 +1,6 @@
+5 int
+insert 1835
+modify 1835 20760
+modify 20760 193
+delete 193
+modify 193 2020

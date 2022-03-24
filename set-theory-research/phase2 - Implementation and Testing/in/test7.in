@@ -1,0 +1,11 @@
+10 int
+insert 21424
+modify 21424 3568
+modify 3568 5392
+delete 21424
+insert 7591
+insert 7591
+insert 986
+insert 29786
+modify 7591 11146
+insert 31660
