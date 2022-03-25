@@ -7,6 +7,7 @@
 									Stroe Teodora, 321CA
 
 1. File guide
+```
 	.
 	├── avl
 	│	├── avl.c		 	-> AVL implementation
@@ -54,7 +55,7 @@
 	├── Makefile
 	├── README
 	└── test_generator.sh	-> script used to automatically generate input files
-
+```
 2. Test generator
 
 	## Installation
