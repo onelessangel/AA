@@ -10,15 +10,15 @@
 ```
 	.
 	├── avl
-	│	├── avl.c		 	-> AVL implementation
-	│	├── avl.h			-> header file for the AVL implementation
-	│	└── utils.h			-> DIE macro used for checking the error code returned by a system call
+	│	├── avl.c		-> AVL implementation
+	│	├── avl.h		-> header file for the AVL implementation
+	│	└── utils.h		-> DIE macro used for checking the error code returned by a system call
 	├── hashmap
 	│	├── Hashtable.c		-> hashtable implementation
 	│	├── Hashtable.h		-> header file for the hashtable implementation
 	│	├── LinkedList.c	-> linked list implementation
 	│	├── LinkedList.h	-> header file for the linked list implementation
-	│	└── utils.h			-> DIE macro used for checking the error code returned by a system call
+	│	└── utils.h		-> DIE macro used for checking the error code returned by a system call
 	├── in
 	│	└── testX.in		-> input files
 	├── out
@@ -29,32 +29,32 @@
 	│	├── main_avl.c		-> main file for the AVL test
 	│	├── messages.c		-> message functions
 	│	├── messages.h		-> header file for message functions
-	│	└── utils.h			-> DIE macro used for checking the error code returned by a system call
+	│	└── utils.h		-> DIE macro used for checking the error code returned by a system call
 	├── test_ht
 	│	├── commands.c		-> insert/delete/modify commands implementation for hashtable
 	│	├── commands.h		-> header file for the hashtable  commands implementation
 	│	├── main_ht.c		-> main file for the hashtable test
 	│	├── messages.c		-> message functions
 	│	├── messages.h		-> header file for message functions
-	│	└── utils.h			-> DIE macro used for checking the error code returned by a system call
+	│	└── utils.h		-> DIE macro used for checking the error code returned by a system call
 	├── test_treap
 	│	├── commands.c		-> insert/delete/modify commands implementation for treap
 	│	├── commands.h		-> header file for the treap  commands implementation
 	│	├── main_treap.c	-> main file for the treap test
 	│	├── messages.c		-> message functions
 	│	├── messages.h		-> header file for message functions
-	│	└── utils.h			-> DIE macro used for checking the error code returned by a system call
+	│	└── utils.h		-> DIE macro used for checking the error code returned by a system call
 	├── time
 	│	├── time_avl.txt	-> average time of AVL execution for each input file
 	│	├── time_ht.txt		-> average time of hashtable execution for each input file
 	│	└── time_treap.txt	-> average time of treap execution for each input file
 	├── treap
-	│	├── treap.c			-> treap implementation
-	│	└── treap.h			-> header file for the treap implementation
+	│	├── treap.c		-> treap implementation
+	│	└── treap.h		-> header file for the treap implementation
 	├── engmix.txt			-> a list of 84,000 English words
 	├── Makefile
 	├── README
-	└── test_generator.sh	-> script used to automatically generate input files
+	└── test_generator.sh		-> script used to automatically generate input files
 ```
 2. Test generator
 
