@@ -67,6 +67,7 @@ chmod a+x test_generator.sh
 ./test_generator.sh [NO_COMMANDS] [INPUT_TYPE]
 
 NO_COMMANDS - positive natural number
+
 INPUT_TYPE  - {int, string}
 
 - If the `INPUT_TYPE` is not specified, the script will generate commands using strings.
